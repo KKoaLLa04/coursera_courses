@@ -1,0 +1,16 @@
+
+
+* 2.1
+
+* 2.2
+ 
+* 2.3
+
+* 2.4
+ - AI: leonardo.ai
+    + Tính năng: Tạo ảnh AI miễn phí (được 100 xu free/ ngày) ~ 4 xu / ảnh => 25 ảnh free/ngày
+    + Thao tác: User Tools => AI imageGeneration => prompt => tìm ảnh rồi dùng D-ID => canva => video đạo lý
+     => kết hợp dùng chatGPT + heyzen làm nhân vật nói được
+
+* 2.6
+ - 
